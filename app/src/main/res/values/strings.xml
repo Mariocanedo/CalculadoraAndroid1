@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name2">Application</string>
+    <string name="saludo_inicial">HOLA APP MOVILES</string>
+
+    <string name="button1">CAMBIO NOMBRE</string>
+
+    <string name="num1">INGRESE PRIMER NÚMERO</string>
+    <string name="num2">INGRESE SEGUNDO NÚMERO</string>
+    <string name="resul">RESULTADO</string>
+    <string name="btn1">+</string>
+
+</resources>
